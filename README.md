@@ -1,5 +1,5 @@
-<h1 align="left">👋 I'm Gwangwoo Lee</h1>
-<h3 align="left">     I'm currently living in San Francisco. As an undergraduate student at San Francisco State University I am eager to learn from experienced professionals in the industry and apply my skills to real-world challenges. I am a quick learner, an effective communicator, and a collaborative team player, and I believe that my attention to detail and ability to work under pressure make me a strong fit for the role.</h3>
+<h2 align="left">Hi👋 I'm Gwangwoo Lee</h1>
+<h4 align="left">I'm currently living in San Francisco. As an undergraduate student at San Francisco State University I am eager to learn from experienced professionals in the industry and apply my skills to real-world challenges. I am a quick learner, an effective communicator, and a collaborative team player, and I believe that my attention to detail and ability to work under pressure make me a strong fit for the role.</h3>
 
 
 
