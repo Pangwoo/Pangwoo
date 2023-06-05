@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I'm an undergraduate student at San Francisco State University I am eager to learn from experienced professionals in the industry and apply my skills to real-world challenges. I am a quick learner, an effective communicator, and a collaborative team player, and I believe that my attention to detail and ability to work under pressure make me a strong fit for the role.
 <!--
 **Pangwoo/Pangwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
